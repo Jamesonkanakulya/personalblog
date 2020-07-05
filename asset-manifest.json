@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Jamesonkanakulya/personalblog.git/static/css/main.d9267848.chunk.css",
+    "main.js": "/Jamesonkanakulya/personalblog.git/static/js/main.d2bf0a90.chunk.js",
+    "main.js.map": "/Jamesonkanakulya/personalblog.git/static/js/main.d2bf0a90.chunk.js.map",
+    "runtime-main.js": "/Jamesonkanakulya/personalblog.git/static/js/runtime-main.9a103a75.js",
+    "runtime-main.js.map": "/Jamesonkanakulya/personalblog.git/static/js/runtime-main.9a103a75.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Jamesonkanakulya/personalblog.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.105d9206.chunk.js": "/Jamesonkanakulya/personalblog.git/static/js/2.105d9206.chunk.js",
+    "static/js/2.105d9206.chunk.js.map": "/Jamesonkanakulya/personalblog.git/static/js/2.105d9206.chunk.js.map",
+    "index.html": "/Jamesonkanakulya/personalblog.git/index.html",
+    "precache-manifest.09ad00e42099a0e8626e04501cd39189.js": "/Jamesonkanakulya/personalblog.git/precache-manifest.09ad00e42099a0e8626e04501cd39189.js",
+    "service-worker.js": "/Jamesonkanakulya/personalblog.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Jamesonkanakulya/personalblog.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d9267848.chunk.css.map": "/Jamesonkanakulya/personalblog.git/static/css/main.d9267848.chunk.css.map",
+    "static/js/2.105d9206.chunk.js.LICENSE.txt": "/Jamesonkanakulya/personalblog.git/static/js/2.105d9206.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/Jamesonkanakulya/personalblog.git/static/media/background.f399f7d2.jpg",
+    "static/media/App.css": "/Jamesonkanakulya/personalblog.git/static/media/background2.4981bd76.png",
+    "static/media/background4.jpg": "/Jamesonkanakulya/personalblog.git/static/media/background4.8d0fe1be.jpg",
+    "static/media/next.jpeg": "/Jamesonkanakulya/personalblog.git/static/media/next.cf738cb1.jpeg",
+    "static/media/top.jpeg": "/Jamesonkanakulya/personalblog.git/static/media/top.592cad66.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a103a75.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.105d9206.chunk.js",
+    "static/css/main.d9267848.chunk.css",
+    "static/js/main.d2bf0a90.chunk.js"
+  ]
+}
